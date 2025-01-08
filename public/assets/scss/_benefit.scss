@@ -1,0 +1,127 @@
+@use "common" as *;
+@use "variables" as *;
+@use "mixins" as *;
+
+/* 15. Benifit */
+.benefit-text {
+    position: relative;
+    & .benefit-subtitle {
+        font-size: 18px;
+        color: #1a1c1e;
+        margin-bottom: 30px;
+        text-transform: uppercase;
+    }
+    & p {
+        font-size: 16px;
+        line-height: 2;
+    }
+}
+.benefit-img {
+    position: absolute;
+    top: -80px;
+    right: 0px;
+    z-index: 2;
+    & img{
+      -webkit-filter: grayscale(100%);
+      @include transition (.3s);
+    }
+    &:hover{
+      & img{
+        -webkit-filter: grayscale(0);
+      }
+    }
+    @include mq(xxl){
+      width: 45%;
+    }
+    @include mq(xl){
+      width: 45%;
+      top: 120px;
+    }
+    @include mq(lg){
+      position: relative;
+      margin-top: -75px;
+      & img {
+        width: 100%;
+  }
+}
+@include mq(md){
+  position: relative;
+  margin-top: -75px;
+  & img {
+    width: 100%;
+  }
+}
+@include mq(xs){
+  position: relative;
+  margin-top: -75px;
+  & img {
+    width: 100%;
+  }
+}
+}
+.benefit-img-level {
+    position: absolute;
+    left: -202px;
+    bottom: 202px;
+    transform: rotate(-90deg);
+    @include mq(xl){
+     left: -152px;
+     bottom: 152px;
+    }
+    @include mq(lg){
+      left: -120px;
+      bottom: 152px;
+     }
+     @include mq(md){
+      left: -120px;
+      bottom: 152px;
+     }
+     @include mq(xs){
+      display: none;
+     }
+    & span {
+        font-size: 14px;
+        font-weight: 700;
+        color: $white-color;
+        display: inline-block;
+        letter-spacing: 1.3px;
+        text-transform: uppercase;
+        padding: 15px 100px;
+        background: $theme-color;
+        @include mq(xl){
+          padding: 15px 50px;
+         }
+         @include mq(lg){
+          padding: 15px 50px;
+          }
+          @include mq(md){
+            padding: 15px 50px;
+          }
+    }
+}
+.progress_circle {
+  display: flex;
+  align-items: center;
+  h5 {
+    padding-left: 20px;
+  }
+  .progress {
+    width: 110px;
+    height: 110px !important;
+    float: left;
+    line-height: 110px;
+    background: none;
+    margin: 0px 0px;
+    box-shadow: none;
+    position: relative
+  }
+  .CircularProgressbar .CircularProgressbar-trail {
+    stroke: #e9ebed;
+  }
+  .CircularProgressbar .CircularProgressbar-text {
+    fill: #ff4040;
+  }
+  .CircularProgressbar .CircularProgressbar-path {
+    stroke: #ff4040;
+  }
+}
