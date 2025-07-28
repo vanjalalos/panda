@@ -142,7 +142,7 @@ footer {
     position: relative;
     z-index: 1;
     &:before {
-        background: #1a1c1e;
+        //background: #1a1c1e;
         height: 100%;
         width: 400px;
         position: absolute;
@@ -208,7 +208,7 @@ footer {
     }
 }
 .copyright-bg {
-    background: #1a1c1e;
+    //background: #1a1c1e;
     padding: 28px 0px;
     @include mq(xs){
         padding: 12px 0px; 

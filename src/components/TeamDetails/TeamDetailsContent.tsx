@@ -25,7 +25,7 @@ const TeamDetailsContent = ({ id }: idType) => {
                                         <h5 className="section-subtitle mb-20">{team?.designation}</h5>
                                         <h2 className="section-title mb-35">{team?.title}</h2>
                                     </div>
-                                    <p className="paragraph-2">The spectacular Harbour Central is a brand new development in London’s The Docklands, comprising a total of 642 private apartments divided across five residential buildings, along with a leisure complex.</p>
+                                    <p className="paragraph-2">Bojan veruje u ličan pristup i iskreno partnerstvo sa svakim klijentom. Posvećen je tome da svako rešenje bude prilagođeno i jasno, kako bi poslovanje bilo bezbrižno i uspešno.</p>
                                 </div>
                                 <div className="team__founder-info">
                                     <div className="team__founder-item">
@@ -33,8 +33,8 @@ const TeamDetailsContent = ({ id }: idType) => {
                                             <i className="fas fa-phone"></i>
                                         </div>
                                         <div className="team__founder-text">
-                                            <span className="title">Phone Number</span>
-                                            <h4 className="contact"><a href="tel:926668880000">92 666 888 0000</a></h4>
+                                            <span className="title">Broj telefona</span>
+                                            <h4 className="contact"><a href="tel:926668880000">+ 387 65 314 131</a></h4>
                                         </div>
                                     </div>
                                     <div className="team__founder-item">
@@ -43,7 +43,7 @@ const TeamDetailsContent = ({ id }: idType) => {
                                         </div>
                                         <div className="team__founder-text">
                                             <span className="title">Email Address</span>
-                                            <h4 className="contact"><a href="mailto:info@webexample.com">info@webexample.com</a></h4>
+                                            <h4 className="contact"><a href="mailto:office@panda.ba">office@panda.ba</a></h4>
                                         </div>
                                     </div>
                                     <div className="team__founder-item">
@@ -51,8 +51,8 @@ const TeamDetailsContent = ({ id }: idType) => {
                                             <i className="fas fa-map-marker-alt"></i>
                                         </div>
                                         <div className="team__founder-text">
-                                            <span className="title">Office Location</span>
-                                            <h4 className="contact">86 Road Broklyn Street, New York</h4>
+                                            <span className="title">Adresa</span>
+                                            <h4 className="contact">Bulevar vojvode Stepe Stepanovića 59, 78000 Banja Luka, Bosna i Hercegovina</h4>
                                         </div>
                                     </div>
                                 </div>

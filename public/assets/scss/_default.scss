@@ -311,7 +311,7 @@ label {
 .section-title {
     font-size: 50px;
     color: $heading-color;
-    text-transform: uppercase;
+    //text-transform: uppercase;
     font-weight: 900;
     letter-spacing: 0.5px;
     @include mq(lg){

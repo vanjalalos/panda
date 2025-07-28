@@ -7,7 +7,7 @@ const FaqForm = () => {
                 <div className="row">
                     <div className="col-12">
                         <div className="faq-form-title-wrapper text-center">
-                            <h3 className="faq-form-title">Still stuck ask directly</h3>
+                            <h3 className="faq-form-title">Još uvijek imate pitanja? Pitajte direktno!</h3>
                         </div>
                     </div>
                 </div>
@@ -17,22 +17,22 @@ const FaqForm = () => {
                             <form id="contact-form" >
                                 <div className="row">
                                     <div className="col-xxl-6 col-xl-6 col-md-6 mb-20">
-                                        <input type="text" placeholder="Your Name" />
+                                        <input type="text" placeholder="Vaše ime" />
                                     </div>
                                     <div className="col-xxl-6 col-xl-6 col-md-6 mb-20">
-                                        <input type="email" placeholder="Email Adress" />
+                                        <input type="email" placeholder="Email adresa" />
                                     </div>
                                     <div className="col-xxl-6 col-xl-6 col-md-6 mb-20">
-                                        <input type="text" placeholder="Phone" />
+                                        <input type="text" placeholder="Telefon" />
                                     </div>
                                     <div className="col-xxl-6 col-xl-6 col-md-6 mb-20">
-                                        <input type="text" placeholder="Subject" />
+                                        <input type="text" placeholder="Predmet" />
                                     </div>
                                     <div className="col-xxl-12 col-xl-12 col-md-12 mb-20">
-                                        <textarea placeholder="Write Massage"></textarea>
+                                            <textarea placeholder="Napišite poruku"></textarea>
                                     </div>
                                     <div className="col-xxl-12 col-xl-12 mb-20">
-                                        <button type="submit" className="theme-btn border-btn">Send Message</button>
+                                        <button type="submit" className="theme-btn border-btn">Pošalji poruku</button>
                                     </div>
                                 </div>
                             </form>

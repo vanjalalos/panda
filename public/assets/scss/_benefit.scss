@@ -119,9 +119,11 @@
     stroke: #e9ebed;
   }
   .CircularProgressbar .CircularProgressbar-text {
-    fill: #ff4040;
+    // fill: #ff4040;
+    fill:#0cb85a;
   }
   .CircularProgressbar .CircularProgressbar-path {
-    stroke: #ff4040;
+    // stroke: #ff4040;
+    stroke: #0cb85a;
   }
 }

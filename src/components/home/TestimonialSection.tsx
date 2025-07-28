@@ -4,12 +4,6 @@ import React from 'react';
 import { A11y, Autoplay, } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css/bundle'
-import Image from "next/image";
-import testimonial1 from "../../../public/assets/img/testimonial/testimonial-img-1.jpg";
-import testimonial2 from "../../../public/assets/img/testimonial/testimonial-img-2.jpg";
-import testimonial3 from "../../../public/assets/img/testimonial/testimonial-img-3.jpg";
-import testimonial4 from "../../../public/assets/img/testimonial/testimonial-img-4.jpg";
-import testimonial5 from "../../../public/assets/img/testimonial/testimonial-img-5.jpg";
 
 interface classType {
     testimonial_space: string;
@@ -22,8 +16,8 @@ const TestimonialSection = ({ testimonial_space }: classType) => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="section-title-wrapper text-center mb-45">
-                            <h5 className="section-subtitle mb-20">client testimonials</h5>
-                            <h2 className="section-title mb-35">What they say?</h2>
+                            <h5 className="section-subtitle mb-20">iskustva klijenata</h5>
+                            <h2 className="section-title mb-35">Šta kažu naši klijenti?</h2>
                         </div>
                     </div>
                 </div>
@@ -34,6 +28,8 @@ const TestimonialSection = ({ testimonial_space }: classType) => {
                             spaceBetween={30}
                             loop={true}
                             speed={1500}
+                            watchSlidesProgress={true}
+                            watchOverflow={true}
                             breakpoints={{
                                 320: {
                                     slidesPerView: 1,
@@ -53,82 +49,134 @@ const TestimonialSection = ({ testimonial_space }: classType) => {
                                 disableOnInteraction: true
                             }}
                         >
-                            <SwiperSlide>
-                                <div className="ktestimonial mb-30 swiper-slides">
-                                    <div className="ktestimonial-text">
-                                        <p>I was very impresed by the kimox service lorem ipsum is simply free text used by copy typing refreshing. Neque porro est qui dolorem ipsum.</p>
+                            <SwiperSlide style={{ height: "auto", display: "flex" }}>
+                                <div className="ktestimonial mb-30 swiper-slides" style={{ height: "400px", display: "flex", flexDirection: "column" }}>
+                                    <div 
+                                        className="ktestimonial-text"
+                                        style={{
+                                            border: "2px solid #e9ebed",
+                                            borderBottom: "18px solid #e9ebed",
+                                            padding: "50px 60px 80px 60px",
+                                            transition: "border-color 0.3s ease",
+                                            height: "330px",
+                                            display: "flex",
+                                            alignItems: "center"
+                                        }}
+                                        onMouseEnter={(e) => {
+                                            e.currentTarget.style.borderColor = "#0cb85a";
+                                        }}
+                                        onMouseLeave={(e) => {
+                                            e.currentTarget.style.borderColor = "#e9ebed";
+                                            e.currentTarget.style.borderBottomColor = "#e9ebed";
+                                        }}
+                                    >
+                                        <p style={{ fontSize: "20px", fontWeight: 400, lineHeight: 1.9, marginBottom: 0 }}>
+                                            Veoma sam zadovoljan uslugom, sve je urađeno profesionalno i tačno. Preporučujem ih svakome ko želi bezbrižno poslovanje.
+                                        </p>
                                     </div>
-                                    <div className="ktestimonial-author">
-                                        <div className="ktestimonial-author-img">
-                                            <Image src={testimonial1} style={{ width: "100%", height: "auto" }} alt="client-img" />
-                                        </div>
+                                    <div className="ktestimonial-author" style={{ paddingLeft: "60px", marginTop: "-60px" }}>
                                         <div className="ktestimonial-author-text">
-                                            <h5 className="uppercase">Jessica Brown</h5>
-                                            <span className="uppercase">Customer</span>
+                                            <h5 className="uppercase">Nikola Nikolić</h5>
+                                            <span className="uppercase" style={{ color: "#0cb85a" }}>Klijent</span>
                                         </div>
                                     </div>
                                 </div>
                             </SwiperSlide>
-                            <SwiperSlide>
-                                <div className="ktestimonial mb-30 swiper-slides">
-                                    <div className="ktestimonial-text">
-                                        <p>Reliable accessible UI components: :focus styles, content sliders, dark mode, date pickers, navigation, modals, radio buttons Neque porro est qui.</p>
+                            <SwiperSlide style={{ height: "auto", display: "flex" }}>
+                                <div className="ktestimonial mb-30 swiper-slides" style={{ height: "400px", display: "flex", flexDirection: "column" }}>
+                                    <div 
+                                        className="ktestimonial-text"
+                                        style={{
+                                            border: "2px solid #e9ebed",
+                                            borderBottom: "18px solid #e9ebed",
+                                            padding: "50px 60px 80px 60px",
+                                            transition: "border-color 0.3s ease",
+                                            height: "330px",
+                                            display: "flex",
+                                            alignItems: "center"
+                                        }}
+                                        onMouseEnter={(e) => {
+                                            e.currentTarget.style.borderColor = "#0cb85a";
+                                        }}
+                                        onMouseLeave={(e) => {
+                                            e.currentTarget.style.borderColor = "#e9ebed";
+                                            e.currentTarget.style.borderBottomColor = "#e9ebed";
+                                        }}
+                                    >
+                                        <p style={{ fontSize: "20px", fontWeight: 400, lineHeight: 1.9, marginBottom: 0 }}>
+                                            Izuzetno ljubazan tim koji razume potrebe klijenta. Računovodstvo nam je sada jednostavno i pregledno.
+                                        </p>
                                     </div>
-                                    <div className="ktestimonial-author">
-                                        <div className="ktestimonial-author-img">
-                                            <Image src={testimonial2} style={{ width: "100%", height: "auto" }} alt="client-img" />
-                                        </div>
+                                    <div className="ktestimonial-author" style={{ paddingLeft: "60px", marginTop: "-60px" }}>
                                         <div className="ktestimonial-author-text">
-                                            <h5 className="uppercase">Mike Hardson</h5>
-                                            <span className="uppercase">Customer</span>
+                                            <h5 className="uppercase">Ana Anić</h5>
+                                            <span className="uppercase" style={{ color: "#0cb85a" }}>Klijent</span>
                                         </div>
                                     </div>
                                 </div>
                             </SwiperSlide>
-                            <SwiperSlide>
-                                <div className="ktestimonial mb-30 swiper-slides">
-                                    <div className="ktestimonial-text">
-                                        <p>Useful CSS tools for animations, border-radius, CSS shadows, cubic-bezier curves, easing gradients, filters, placeholders, CSS Grid.</p>
+                            <SwiperSlide style={{ height: "auto", display: "flex" }}>
+                                <div className="ktestimonial mb-30 swiper-slides" style={{ height: "400px", display: "flex", flexDirection: "column" }}>
+                                    <div 
+                                        className="ktestimonial-text"
+                                        style={{
+                                            border: "2px solid #e9ebed",
+                                            borderBottom: "18px solid #e9ebed",
+                                            padding: "50px 60px 80px 60px",
+                                            transition: "border-color 0.3s ease",
+                                            height: "330px",
+                                            display: "flex",
+                                            alignItems: "center"
+                                        }}
+                                        onMouseEnter={(e) => {
+                                            e.currentTarget.style.borderColor = "#0cb85a";
+                                        }}
+                                        onMouseLeave={(e) => {
+                                            e.currentTarget.style.borderColor = "#e9ebed";
+                                            e.currentTarget.style.borderBottomColor = "#e9ebed";
+                                        }}
+                                    >
+                                        <p style={{ fontSize: "20px", fontWeight: 400, lineHeight: 1.9, marginBottom: 0 }}>
+                                            Vrlo pouzdani i precizni u svom radu. Uvek dostupni za savete i pojašnjenja kada god je potrebno.
+                                        </p>
                                     </div>
-                                    <div className="ktestimonial-author">
-                                        <div className="ktestimonial-author-img">
-                                            <Image src={testimonial3} style={{ width: "100%", height: "auto" }} alt="client-img" />
-                                        </div>
+                                    <div className="ktestimonial-author" style={{ paddingLeft: "60px", marginTop: "-60px" }}>
                                         <div className="ktestimonial-author-text">
-                                            <h5 className="uppercase">Sarah Albert</h5>
-                                            <span className="uppercase">Customer</span>
+                                            <h5 className="uppercase">Vanja Ðurić</h5>
+                                            <span className="uppercase" style={{ color: "#0cb85a" }}>Klijent</span>
                                         </div>
                                     </div>
                                 </div>
                             </SwiperSlide>
-                            <SwiperSlide>
-                                <div className="ktestimonial mb-30 swiper-slides">
-                                    <div className="ktestimonial-text">
-                                        <p>I was very impresed by the kimox service lorem ipsum is simply free text used by copy typing refreshing. Neque porro est qui dolorem ipsum.</p>
+                            <SwiperSlide style={{ height: "auto", display: "flex" }}>
+                                <div className="ktestimonial mb-30 swiper-slides" style={{ height: "400px", display: "flex", flexDirection: "column" }}>
+                                    <div 
+                                        className="ktestimonial-text"
+                                        style={{
+                                            border: "2px solid #e9ebed",
+                                            borderBottom: "18px solid #e9ebed",
+                                            padding: "50px 60px 80px 60px",
+                                            transition: "border-color 0.3s ease",
+                                            height: "330px",
+                                            display: "flex",
+                                            alignItems: "center"
+                                        }}
+                                        onMouseEnter={(e) => {
+                                            e.currentTarget.style.borderColor = "#0cb85a";
+                                        }}
+                                        onMouseLeave={(e) => {
+                                            e.currentTarget.style.borderColor = "#e9ebed";
+                                            e.currentTarget.style.borderBottomColor = "#e9ebed";
+                                        }}
+                                    >
+                                        <p style={{ fontSize: "20px", fontWeight: 400, lineHeight: 1.9, marginBottom: 0 }}>
+                                            Odlična saradnja i brza komunikacija. Zahvaljujući njima sve finansije su nam uredne i transparentne.
+                                        </p>
                                     </div>
-                                    <div className="ktestimonial-author">
-                                        <div className="ktestimonial-author-img">
-                                            <Image src={testimonial4} style={{ width: "100%", height: "auto" }} alt="client-img" />
-                                        </div>
+                                    <div className="ktestimonial-author" style={{ paddingLeft: "60px", marginTop: "-60px" }}>
                                         <div className="ktestimonial-author-text">
-                                            <h5 className="uppercase">Melinda Brown</h5>
-                                            <span className="uppercase">Customer</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </SwiperSlide>
-                            <SwiperSlide>
-                                <div className="ktestimonial mb-30 swiper-slides">
-                                    <div className="ktestimonial-text">
-                                        <p>Core Web Vitals, CrUX, Lighthouse, performance budgets, CSS & JavaScript performance, assets optimizations, build optimizations.</p>
-                                    </div>
-                                    <div className="ktestimonial-author">
-                                        <div className="ktestimonial-author-img">
-                                            <Image src={testimonial5} style={{ width: "100%", height: "auto" }} alt="client-img" />
-                                        </div>
-                                        <div className="ktestimonial-author-text">
-                                            <h5 className="uppercase">Andrew Tye</h5>
-                                            <span className="uppercase">Customer</span>
+                                            <h5 className="uppercase">Marko Marković</h5>
+                                            <span className="uppercase" style={{ color: "#0cb85a" }}>Klijent</span>
                                         </div>
                                     </div>
                                 </div>

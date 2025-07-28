@@ -6,7 +6,7 @@ import FaqForm from './FaqForm';
 const FaqMain = () => {
     return (
         <>
-            <Breadcrumb title='FAQ' subTitle='FAQ' />
+            <Breadcrumb title='Česta pitanja' subTitle='Česta pitanja' />
             <FaqAccordion />
             <FaqForm />
         </>

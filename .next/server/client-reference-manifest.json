@@ -56,145 +56,17 @@
         "async": false
       }
     },
-    "(app-client)/./public/assets/img/about/about-img-1.jpg": {
+    "(app-client)/./public/assets/img/about/about-img-11.jpg": {
       "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-1.jpg",
+        "id": "(sc_client)/./public/assets/img/about/about-img-11.jpg",
         "name": "*",
         "chunks": [],
         "async": false
       }
     },
-    "(app-client)/./public/assets/img/about/about-img-2.jpg": {
+    "(app-client)/./public/assets/img/about/about-img-12.jpg": {
       "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-2.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/blog/blog-img-10.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/blog/blog-img-10.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/blog/blog-img-11.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/blog/blog-img-11.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/blog/blog-img-6.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/blog/blog-img-6.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/blog/blog-img-7.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/blog/blog-img-7.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/blog/blog-img-8.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/blog/blog-img-8.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/blog/blog-img-9.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/blog/blog-img-9.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-1.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-1.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-10.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-10.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-2.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-2.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-3.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-3.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-4.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-4.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-5.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-5.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-6.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-6.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-7.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-7.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-8.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-8.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/brand/brand-9.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/brand/brand-9.png",
+        "id": "(sc_client)/./public/assets/img/about/about-img-12.jpg",
         "name": "*",
         "chunks": [],
         "async": false
@@ -224,14 +96,6 @@
         "async": false
       }
     },
-    "(app-client)/./public/assets/img/icon/service-icon-1a.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/icon/service-icon-1a.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
     "(app-client)/./public/assets/img/icon/sidebar-icon-1.png": {
       "*": {
         "id": "(sc_client)/./public/assets/img/icon/sidebar-icon-1.png",
@@ -251,6 +115,206 @@
     "(app-client)/./public/assets/img/logo/logo.png": {
       "*": {
         "id": "(sc_client)/./public/assets/img/logo/logo.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/service/service-author.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/service/service-author.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/slider/image-slider-1.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/slider/image-slider-1.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/slider/image-slider-2.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/slider/image-slider-2.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/slider/image-slider-23.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/slider/image-slider-23.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/slider/image-slider-3.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/slider/image-slider-3.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/slider/slider-shape-1.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/slider/slider-shape-1.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/slider/slider-shape-2.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/slider/slider-shape-2.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/home/HeroSection.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/home/HeroSection.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/home/TestimonialSection.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/home/TestimonialSection.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/contextApi/AppProvider.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/contextApi/AppProvider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/hooks/useLoading.ts": {
+      "*": {
+        "id": "(sc_client)/./src/hooks/useLoading.ts",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/layout/DefaultWrapper.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/layout/DefaultWrapper.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/layout/header/HeaderTwo.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/layout/header/HeaderTwo.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/layout/header/MobileMenu.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/layout/header/MobileMenu.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/bg/breadcrumb-bg.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/bg/breadcrumb-bg.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/service/service-img-5.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/service/service-img-5.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/service/service-img-6.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/service/service-img-6.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/about/about-img-6.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/about/about-img-6.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/team/team-img-1.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/team/team-img-1.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/team/team-img-2.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/team/team-img-2.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/about/AboutTeamSection.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/about/AboutTeamSection.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/about/MissionSection.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/about/MissionSection.tsx",
         "name": "*",
         "chunks": [],
         "async": false
@@ -360,457 +424,9 @@
         "async": false
       }
     },
-    "(app-client)/./public/assets/img/service/service-author.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/service/service-author.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/slider/slider-1.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/slider/slider-1.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/slider/slider-2.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/slider/slider-2.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/slider/slider-3.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/slider/slider-3.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/slider/slider-shape-1.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/slider/slider-shape-1.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/slider/slider-shape-2.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/slider/slider-shape-2.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/testimonial/testimonial-img-1.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/testimonial/testimonial-img-1.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/testimonial/testimonial-img-2.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/testimonial/testimonial-img-2.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/testimonial/testimonial-img-3.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/testimonial/testimonial-img-3.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/testimonial/testimonial-img-4.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/testimonial/testimonial-img-4.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/testimonial/testimonial-img-5.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/testimonial/testimonial-img-5.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/trust/cta-img.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/trust/cta-img.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/image.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/elements/blog/BlogCommonSlider.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/elements/blog/BlogCommonSlider.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/home/BrandSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/home/BrandSection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/home/HeroSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/home/HeroSection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/home/ProjectSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/home/ProjectSection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/home/TestimonialSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/home/TestimonialSection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/home/VideoSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/home/VideoSection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/contextApi/AppProvider.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/contextApi/AppProvider.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/hooks/useLoading.ts": {
-      "*": {
-        "id": "(sc_client)/./src/hooks/useLoading.ts",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/layout/DefaultWrapper.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/layout/DefaultWrapper.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/layout/header/HeaderOne.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/layout/header/HeaderOne.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/layout/header/HeaderTwo.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/layout/header/HeaderTwo.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/layout/header/MobileMenu.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/layout/header/MobileMenu.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/about/about-img-7.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-7.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/bg/breadcrumb-bg.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/bg/breadcrumb-bg.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/service/service-img-1.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/service/service-img-1.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/service/service-img-2.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/service/service-img-2.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/service/service-img-3.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/service/service-img-3.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/service/service-img-4.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/service/service-img-4.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/about/about-img-3.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-3.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/about/about-img-4.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-4.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/about/about-img-5.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-5.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/about/about-img-8.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-8.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/about/about-img-9.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-9.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/about/intro-bg.png": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/about/intro-bg.png",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/team/team-img-1.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/team/team-img-1.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/team/team-img-2.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/team/team-img-2.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/team/team-img-3.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/team/team-img-3.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/team/team-img-4.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/team/team-img-4.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/team/team-img-5.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/team/team-img-5.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/team/team-img-6.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/team/team-img-6.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/team/team-img-7.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/team/team-img-7.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/team/team-img-8.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/team/team-img-8.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
     "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/common/counter/CountUpContent.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/common/counter/CountUpContent.jsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/homeTwo/BenefitsSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/homeTwo/BenefitsSection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/homeTwo/BrandSectionTwo.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/homeTwo/BrandSectionTwo.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/homeTwo/HeroSectionTwo.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/homeTwo/HeroSectionTwo.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/homeTwo/TeamSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/homeTwo/TeamSection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/service/service-img-5.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/service/service-img-5.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/service/service-img-6.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/service/service-img-6.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/about/about-img-6.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/about/about-img-6.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/about/AboutTeamSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/about/AboutTeamSection.tsx",
         "name": "*",
         "chunks": [],
         "async": false
@@ -979,147 +595,19 @@
       ],
       "async": false
     },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-1.jpg": {
-      "id": "(app-client)/./public/assets/img/about/about-img-1.jpg",
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-11.jpg": {
+      "id": "(app-client)/./public/assets/img/about/about-img-11.jpg",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-2.jpg": {
-      "id": "(app-client)/./public/assets/img/about/about-img-2.jpg",
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-12.jpg": {
+      "id": "(app-client)/./public/assets/img/about/about-img-12.jpg",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/blog/blog-img-10.jpg": {
-      "id": "(app-client)/./public/assets/img/blog/blog-img-10.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/blog/blog-img-11.jpg": {
-      "id": "(app-client)/./public/assets/img/blog/blog-img-11.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/blog/blog-img-6.jpg": {
-      "id": "(app-client)/./public/assets/img/blog/blog-img-6.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/blog/blog-img-7.jpg": {
-      "id": "(app-client)/./public/assets/img/blog/blog-img-7.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/blog/blog-img-8.jpg": {
-      "id": "(app-client)/./public/assets/img/blog/blog-img-8.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/blog/blog-img-9.jpg": {
-      "id": "(app-client)/./public/assets/img/blog/blog-img-9.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-1.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-1.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-10.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-10.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-2.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-2.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-3.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-3.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-4.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-4.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-5.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-5.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-6.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-6.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-7.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-7.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-8.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-8.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/brand/brand-9.png": {
-      "id": "(app-client)/./public/assets/img/brand/brand-9.png",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
       ],
       "async": false
     },
@@ -1135,7 +623,7 @@
       "id": "(app-client)/./public/assets/img/icon/footer-icon-1.png",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1143,15 +631,7 @@
       "id": "(app-client)/./public/assets/img/icon/footer-icon-2.png",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/icon/service-icon-1a.png": {
-      "id": "(app-client)/./public/assets/img/icon/service-icon-1a.png",
-      "name": "*",
-      "chunks": [
-        "app/service/page:static/chunks/app/service/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1159,7 +639,7 @@
       "id": "(app-client)/./public/assets/img/icon/sidebar-icon-1.png",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1167,7 +647,7 @@
       "id": "(app-client)/./public/assets/img/logo/logo-white.png",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1175,111 +655,7 @@
       "id": "(app-client)/./public/assets/img/logo/logo.png",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-1.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-1.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-10.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-10.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-11.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-11.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-12.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-12.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-13.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-13.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-2.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-2.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-3.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-3.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-4.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-4.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-5.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-5.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-6.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-6.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-7.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-7.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-8.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-8.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-9.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-9.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1287,28 +663,36 @@
       "id": "(app-client)/./public/assets/img/service/service-author.png",
       "name": "*",
       "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/slider/slider-1.jpg": {
-      "id": "(app-client)/./public/assets/img/slider/slider-1.jpg",
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/slider/image-slider-1.jpg": {
+      "id": "(app-client)/./public/assets/img/slider/image-slider-1.jpg",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/slider/slider-2.jpg": {
-      "id": "(app-client)/./public/assets/img/slider/slider-2.jpg",
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/slider/image-slider-2.jpg": {
+      "id": "(app-client)/./public/assets/img/slider/image-slider-2.jpg",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/slider/slider-3.jpg": {
-      "id": "(app-client)/./public/assets/img/slider/slider-3.jpg",
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/slider/image-slider-23.jpg": {
+      "id": "(app-client)/./public/assets/img/slider/image-slider-23.jpg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/slider/image-slider-3.jpg": {
+      "id": "(app-client)/./public/assets/img/slider/image-slider-3.jpg",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
@@ -1331,59 +715,11 @@
       ],
       "async": false
     },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/testimonial/testimonial-img-1.jpg": {
-      "id": "(app-client)/./public/assets/img/testimonial/testimonial-img-1.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/testimonial/testimonial-img-2.jpg": {
-      "id": "(app-client)/./public/assets/img/testimonial/testimonial-img-2.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/testimonial/testimonial-img-3.jpg": {
-      "id": "(app-client)/./public/assets/img/testimonial/testimonial-img-3.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/testimonial/testimonial-img-4.jpg": {
-      "id": "(app-client)/./public/assets/img/testimonial/testimonial-img-4.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/testimonial/testimonial-img-5.jpg": {
-      "id": "(app-client)/./public/assets/img/testimonial/testimonial-img-5.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/trust/cta-img.jpg": {
-      "id": "(app-client)/./public/assets/img/trust/cta-img.jpg",
-      "name": "*",
-      "chunks": [
-        "app/service/page:static/chunks/app/service/page.js"
-      ],
-      "async": false
-    },
     "/Users/vanjalalos/git/panda_agency/panda/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1391,7 +727,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1399,7 +735,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1407,7 +743,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1415,7 +751,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1423,36 +759,12 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/elements/blog/BlogCommonSlider.tsx": {
-      "id": "(app-client)/./src/components/elements/blog/BlogCommonSlider.tsx",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/home/BrandSection.tsx": {
-      "id": "(app-client)/./src/components/home/BrandSection.tsx",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
     "/Users/vanjalalos/git/panda_agency/panda/src/components/home/HeroSection.tsx": {
       "id": "(app-client)/./src/components/home/HeroSection.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/home/ProjectSection.tsx": {
-      "id": "(app-client)/./src/components/home/ProjectSection.tsx",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
@@ -1467,19 +779,11 @@
       ],
       "async": false
     },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/home/VideoSection.tsx": {
-      "id": "(app-client)/./src/components/home/VideoSection.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
     "/Users/vanjalalos/git/panda_agency/panda/src/contextApi/AppProvider.tsx": {
       "id": "(app-client)/./src/contextApi/AppProvider.tsx",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1487,7 +791,7 @@
       "id": "(app-client)/./src/hooks/useLoading.ts",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1495,15 +799,7 @@
       "id": "(app-client)/./src/layout/DefaultWrapper.tsx",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/layout/header/HeaderOne.tsx": {
-      "id": "(app-client)/./src/layout/header/HeaderOne.tsx",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1511,7 +807,7 @@
       "id": "(app-client)/./src/layout/header/HeaderTwo.tsx",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1519,15 +815,7 @@
       "id": "(app-client)/./src/layout/header/MobileMenu.tsx",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-7.jpg": {
-      "id": "(app-client)/./public/assets/img/about/about-img-7.jpg",
-      "name": "*",
-      "chunks": [
-        "app/service/page:static/chunks/app/service/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1535,207 +823,7 @@
       "id": "(app-client)/./public/assets/img/bg/breadcrumb-bg.jpg",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/service/service-img-1.jpg": {
-      "id": "(app-client)/./public/assets/img/service/service-img-1.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/service/service-img-2.jpg": {
-      "id": "(app-client)/./public/assets/img/service/service-img-2.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/service/service-img-3.jpg": {
-      "id": "(app-client)/./public/assets/img/service/service-img-3.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/service/service-img-4.jpg": {
-      "id": "(app-client)/./public/assets/img/service/service-img-4.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-3.jpg": {
-      "id": "(app-client)/./public/assets/img/about/about-img-3.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-4.jpg": {
-      "id": "(app-client)/./public/assets/img/about/about-img-4.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-5.jpg": {
-      "id": "(app-client)/./public/assets/img/about/about-img-5.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-8.jpg": {
-      "id": "(app-client)/./public/assets/img/about/about-img-8.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/about-img-9.jpg": {
-      "id": "(app-client)/./public/assets/img/about/about-img-9.jpg",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/about/intro-bg.png": {
-      "id": "(app-client)/./public/assets/img/about/intro-bg.png",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-1.jpg": {
-      "id": "(app-client)/./public/assets/img/team/team-img-1.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-2.jpg": {
-      "id": "(app-client)/./public/assets/img/team/team-img-2.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-3.jpg": {
-      "id": "(app-client)/./public/assets/img/team/team-img-3.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-4.jpg": {
-      "id": "(app-client)/./public/assets/img/team/team-img-4.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-5.jpg": {
-      "id": "(app-client)/./public/assets/img/team/team-img-5.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-6.jpg": {
-      "id": "(app-client)/./public/assets/img/team/team-img-6.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-7.jpg": {
-      "id": "(app-client)/./public/assets/img/team/team-img-7.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-8.jpg": {
-      "id": "(app-client)/./public/assets/img/team/team-img-8.jpg",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/common/counter/CountUpContent.jsx": {
-      "id": "(app-client)/./src/components/common/counter/CountUpContent.jsx",
-      "name": "*",
-      "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/homeTwo/BenefitsSection.tsx": {
-      "id": "(app-client)/./src/components/homeTwo/BenefitsSection.tsx",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/homeTwo/BrandSectionTwo.tsx": {
-      "id": "(app-client)/./src/components/homeTwo/BrandSectionTwo.tsx",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/homeTwo/HeroSectionTwo.tsx": {
-      "id": "(app-client)/./src/components/homeTwo/HeroSectionTwo.tsx",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/homeTwo/TeamSection.tsx": {
-      "id": "(app-client)/./src/components/homeTwo/TeamSection.tsx",
-      "name": "*",
-      "chunks": [
-        "app/home-two/page:static/chunks/app/home-two/page.js"
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     },
@@ -1763,11 +851,155 @@
       ],
       "async": false
     },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-1.jpg": {
+      "id": "(app-client)/./public/assets/img/team/team-img-1.jpg",
+      "name": "*",
+      "chunks": [
+        "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/team/team-img-2.jpg": {
+      "id": "(app-client)/./public/assets/img/team/team-img-2.jpg",
+      "name": "*",
+      "chunks": [
+        "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
     "/Users/vanjalalos/git/panda_agency/panda/src/components/about/AboutTeamSection.tsx": {
       "id": "(app-client)/./src/components/about/AboutTeamSection.tsx",
       "name": "*",
       "chunks": [
         "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/components/about/MissionSection.tsx": {
+      "id": "(app-client)/./src/components/about/MissionSection.tsx",
+      "name": "*",
+      "chunks": [
+        "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-1.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-1.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-10.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-10.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-11.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-11.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-12.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-12.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-13.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-13.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-2.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-2.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-3.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-3.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-4.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-4.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-5.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-5.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-6.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-6.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-7.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-7.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-8.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-8.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-9.jpg": {
+      "id": "(app-client)/./public/assets/img/project/project-img-9.jpg",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
       ],
       "async": false
     }
@@ -1795,31 +1027,20 @@
         "static/css/app/layout.css"
       ]
     },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/service/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css",
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/swiper/swiper-bundle.min.css"
-      ],
-      "files": [
-        "static/css/app/service/page.css"
-      ]
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/home-two/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css",
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/react-circular-progressbar/dist/styles.css",
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/swiper/swiper-bundle.min.css"
-      ],
-      "files": [
-        "static/css/app/home-two/page.css"
-      ]
-    },
     "/Users/vanjalalos/git/panda_agency/panda/src/app/service-details/page": {
       "modules": [
         "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
       ],
       "files": [
         "static/css/app/service-details/page.css"
+      ]
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/contact/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/contact/page.css"
       ]
     },
     "/Users/vanjalalos/git/panda_agency/panda/src/app/about/page": {
@@ -1829,6 +1050,54 @@
       ],
       "files": [
         "static/css/app/about/page.css"
+      ]
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/service/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/service/page.css"
+      ]
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/project/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/project/page.css"
+      ]
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/faq/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/faq/page.css"
+      ]
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/privacy/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/privacy/page.css"
+      ]
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/terms/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/terms/page.css"
+      ]
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/service-details/[slug]/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/service-details/[slug]/page.css"
       ]
     }
   }

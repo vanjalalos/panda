@@ -61,7 +61,7 @@
     }
 }
 .header-logo img {
-    max-width: 170px;
+    max-width: 100px;
 }
 .main-menu {
     & ul {
@@ -160,7 +160,8 @@
         width: 1px;
         top: -9px;
         right: 0px;
-        background: rgba(255, 255, 255,0.102);;
+        //background: rgba(255, 255, 255,0.102);;
+        background: #0cb85a;
     }
     & a {
         font-size: 18px;

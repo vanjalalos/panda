@@ -9,12 +9,12 @@ import BrandSection from '../home/BrandSection';
 const ServiceMain = () => {
     return (
         <>
-            <Breadcrumb title='Services' subTitle='Services' />
-            <ServicePageSection />
-            <ServiceWhyWe />
-            <ServiceSectionFour />
-            <BrandSection brand_space='brand-area3 pt-100 pb-70' />
-            <QualitySection />
+            <Breadcrumb title='Usluge' subTitle='Usluge' />
+            {/* <ServicePageSection /> */}
+            {/* <ServiceWhyWe /> */}
+            {/* <ServiceSectionFour /> */}
+            {/* <BrandSection brand_space='brand-area3 pt-100 pb-70' /> */}
+            {/* <QualitySection /> */}
         </>
     );
 };

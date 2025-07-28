@@ -1,5 +1,6 @@
 import ServiceMain from "@/components/service/ServiceMain";
 import Wrapper from "@/layout/DefaultWrapper";
+import ServicesContent from '@/components/service/ServicesContent';
 
 const  Service = () => {
   return (
@@ -7,6 +8,7 @@ const  Service = () => {
       <Wrapper>
         <main>
           <ServiceMain />
+          <ServicesContent />
         </main>
       </Wrapper>
     </>

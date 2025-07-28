@@ -59,7 +59,8 @@
         content: '';
         width: 24px;
         height: 6px;
-        background-color: rgb(255, 64, 64);
+        //background-color: rgb(255, 64, 64);
+        background-color: $theme-color;
         top: 5px;
         left: 0px;
     }

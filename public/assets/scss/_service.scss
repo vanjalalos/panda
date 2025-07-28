@@ -491,3 +491,301 @@ br {
         padding: 0px 40px;
     }
 }
+
+.kservice-card {
+  background: $white-color;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 40px 30px;
+  text-align: center;
+  transition: all 0.3s ease;
+  border: 1px solid #f0f0f0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+    border-color: $theme-color;
+  }
+
+  .kservice-card-icon {
+    i {
+      font-size: 50px;
+      color: $theme-color;
+      transition: all 0.3s ease;
+    }
+  }
+
+  .kservice-card-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .kservice-card-title {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.3;
+    
+    a {
+      color: $heading-color;
+      text-decoration: none;
+      
+      &:hover {
+        color: $theme-color;
+      }
+    }
+  }
+
+  .kservice-card-description {
+    color: $body-color;
+    line-height: 1.6;
+    flex: 1;
+  }
+
+  .kservice-card-link {
+    margin-top: auto;
+  }
+
+  &:hover .kservice-card-icon i {
+    transform: scale(1.1);
+  }
+}
+
+.services-cta {
+  background: #f8f9fa;
+  padding: 60px 40px;
+  border-radius: 15px;
+  
+  h3 {
+    color: $heading-color;
+    font-weight: 600;
+  }
+  
+  p {
+    color: $body-color;
+    font-size: 16px;
+    max-width: 600px;
+    margin: 0 auto 30px;
+  }
+}
+
+.theme-btn-link {
+  color: $theme-color;
+  font-weight: 500;
+  text-decoration: none;
+  
+  &:hover {
+    color: $heading-color;
+  }
+  
+  i {
+    margin-left: 8px;
+    transition: all 0.3s ease;
+  }
+  
+  &:hover i {
+    transform: translateX(3px);
+  }
+}
+
+// Green title color for services page
+.section-title.text-green {
+  color: $theme-color !important;
+}
+
+.text-green {
+  color: $theme-color !important;
+}
+
+// Service Details Page Styles
+.service-details-area {
+  .service-details-wrapper {
+    .service-details-header {
+      .service-details-icon {
+        text-align: center;
+        
+        i {
+          display: inline-block;
+          padding: 20px;
+          background: rgba(12, 184, 90, 0.1);
+          border-radius: 50%;
+          color: $theme-color;
+        }
+      }
+      
+      .service-details-title {
+        font-size: 36px;
+        font-weight: 700;
+        color: $heading-color;
+        line-height: 1.2;
+      }
+      
+      .service-details-meta {
+        .service-meta-item {
+          display: inline-block;
+          margin-right: 30px;
+          font-size: 16px;
+          
+          i {
+            margin-right: 8px;
+          }
+          
+          strong {
+            font-weight: 600;
+            margin-right: 5px;
+          }
+        }
+      }
+    }
+    
+    .service-details-description {
+      font-size: 16px;
+      line-height: 1.8;
+      color: $body-color;
+    }
+    
+    .service-list {
+      list-style: none;
+      padding: 0;
+      
+      li {
+        margin-bottom: 10px;
+        padding-left: 25px;
+        position: relative;
+        
+        i {
+          position: absolute;
+          left: 0;
+          top: 2px;
+          font-size: 14px;
+        }
+      }
+    }
+    
+    .service-process {
+      .process-steps {
+        .process-step {
+          display: flex;
+          align-items: flex-start;
+          margin-bottom: 25px;
+          
+          .step-number {
+            flex-shrink: 0;
+            width: 40px;
+            height: 40px;
+            background: $theme-color;
+            color: $white-color;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            margin-right: 20px;
+          }
+          
+          .step-content {
+            flex: 1;
+            padding-top: 8px;
+            
+            p {
+              margin: 0;
+              font-size: 16px;
+              line-height: 1.6;
+            }
+          }
+        }
+      }
+    }
+    
+    .service-cta {
+      background: #f8f9fa;
+      padding: 50px 40px;
+      border-radius: 10px;
+      
+      .cta-content {
+        h3 {
+          color: $heading-color;
+          font-weight: 600;
+        }
+        
+        p {
+          color: $body-color;
+          font-size: 16px;
+        }
+        
+        .cta-buttons {
+          .theme-btn {
+            &.mr-15 {
+              margin-right: 15px;
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  .service-details-sidebar {
+    .sidebar-widget {
+      background: $white-color;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+      
+      .widget-title {
+        font-size: 20px;
+        font-weight: 600;
+        color: $heading-color;
+        border-bottom: 2px solid $theme-color;
+        padding-bottom: 10px;
+      }
+    }
+    
+    .contact-widget {
+      .contact-info {
+        .contact-item {
+          display: flex;
+          align-items: flex-start;
+          
+          i {
+            margin-right: 15px;
+            margin-top: 5px;
+            font-size: 18px;
+          }
+          
+          .contact-content {
+            flex: 1;
+            
+            span {
+              display: block;
+              font-weight: 600;
+              color: $heading-color;
+              margin-bottom: 5px;
+            }
+            
+            a, p {
+              color: $body-color;
+              text-decoration: none;
+              margin: 0;
+              
+              &:hover {
+                color: $theme-color;
+              }
+            }
+          }
+        }
+      }
+    }
+    
+    .quote-widget {
+      text-align: center;
+      
+      p {
+        color: $body-color;
+        line-height: 1.6;
+      }
+    }
+  }
+}

@@ -12,29 +12,59 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/service/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/service/page.css",
-      "static/chunks/app/service/page.js"
-    ],
-    "/home-two/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/home-two/page.css",
-      "static/chunks/app/home-two/page.js"
-    ],
     "/service-details/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/service-details/page.css",
       "static/chunks/app/service-details/page.js"
     ],
+    "/contact/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/contact/page.css",
+      "static/chunks/app/contact/page.js"
+    ],
     "/about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/about/page.css",
       "static/chunks/app/about/page.js"
+    ],
+    "/service/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/service/page.css",
+      "static/chunks/app/service/page.js"
+    ],
+    "/project/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/project/page.css",
+      "static/chunks/app/project/page.js"
+    ],
+    "/faq/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/faq/page.css",
+      "static/chunks/app/faq/page.js"
+    ],
+    "/privacy/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/privacy/page.css",
+      "static/chunks/app/privacy/page.js"
+    ],
+    "/terms/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/terms/page.css",
+      "static/chunks/app/terms/page.js"
+    ],
+    "/service-details/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/service-details/[slug]/page.css",
+      "static/chunks/app/service-details/[slug]/page.js"
     ]
   }
 }

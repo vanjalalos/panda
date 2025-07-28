@@ -11,6 +11,7 @@ import VideoSection from "./VideoSection";
 import TestimonialSection from "./TestimonialSection";
 import BrandSection from "./BrandSection";
 import BlogSection from "./BlogSection";
+import Image from "next/image";
 
 const HomeMain = () => {
   return (
@@ -19,13 +20,13 @@ const HomeMain = () => {
       <ServiceSection />
       <CtaSection />
       <AboutSection />
-      <ProjectSection />
-      <VideoSection />
+      {/* <ProjectSection /> */}
+
       <TestimonialSection testimonial_space="" />
-      <BrandSection brand_space="" />
-      <TrustSection />
-      <BlogSection />
-      <QualitySection />
+      {/* <BrandSection brand_space="" /> */}
+      {/* <TrustSection />
+      <BlogSection /> */}
+
       <MapSection />
     </>
   );

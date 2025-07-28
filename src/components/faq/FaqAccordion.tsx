@@ -12,60 +12,40 @@ const FaqAccordion = () => {
                                     <div className="accordion-item">
                                         <h2 className="accordion-header" id="headingOne">
                                             <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                How to process the funtion for development?
+                                                Kako i pod kojim uslovima se mogu radno angažovati maloljetna lica?
                                             </button>
                                         </h2>
                                         <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                <p>There are many variations of passages of available but the majority have suffered alteration in that some form by injected randomised words which don’t look even as slightly believable.</p>
+                                                <p>U skladu sa članom 14 Zakona o radu Republike Srpske („Službeni glasnik Republike Srpske, broj: 55/07) ugovor o radu ne može zaključiti lice koje nije navršilo 15 godina života i koje nema opštu zdravstvenu sposobnost za rad. Radnik mlađi od 18 godina ne može biti raspoređen da radi na naročito teškim fizičkim poslovima, na radovima koji se obavljaju pod zemljom ili pod vodom, kao ni na drugim poslovima koji bi mogli da predstavljaju povećan rizik po njegov život, zdravlje i psihofizički razvoj, a na osnovu člana 75 Zakona o radu.</p>
+                                                <p>Moguće je zaposliti maloljetnika sa najmanje 15 godina, ako su ispunjena 3 uslova:<br/>
+                                                • da roditelji daju saglasnost<br/>
+                                                • da maloljetno lice dobije ljekarsko uvjerenje da je sposobno da obavlja taj posao (trošak snosi Zavod za zapošljavanje)<br/>
+                                                • ako je osigurano da taj rad ne ugrožava zdravlje, moral i obrazovanje maloljetnika.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="accordion-item">
                                         <h2 className="accordion-header" id="headingTwo">
                                             <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                Where should I incorporate my business?
+                                                Da li preduzetnik gubi status malog preduzetnika ako zapošljava više od tri radnika?
                                             </button>
                                         </h2>
                                         <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                <p>Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise.</p>
+                                                <p>Mali preduzetnik gubi status malog preduzetnika ako zapošljava više od tri radnika. U broj radnika se ne računa vlasnik preduzetničke radnje, što je definisano članom 21 tačka 2. Zakona o porezu na dohodak.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="accordion-item">
                                         <h2 className="accordion-header" id="headingThree">
                                             <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                How there are many variations of passages?
+                                                Koje obaveze ima poslodavac po osnovu zaključenog ugovora o dopunskom radu sa fizičkim licem?
                                             </button>
                                         </h2>
                                         <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                <p>Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="accordion-item">
-                                        <h2 className="accordion-header" id="headingFour">
-                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                Everything to keep in mind when designing?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                            <div className="accordion-body">
-                                                <p>Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="accordion-item">
-                                        <h2 className="accordion-header" id="headingFive">
-                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                Different Ways To Design Digital Product?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFive" className="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                                            <div className="accordion-body">
-                                                <p>Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones.</p>
+                                                <p>Na primanja po osnovu ugovora o dopunskom radu plaća se porez na ostali dohodak (10%) i doprinos za penzijsko i invalidsko osiguranje.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -78,74 +58,27 @@ const FaqAccordion = () => {
                             <div className="choose-right" data-aos="fade-left" data-aos-duration="1000">
                                 <div className="accordion" id="accordionExample2">
                                     <div className="accordion-item">
-                                        <h2 className="accordion-header" id="headingSix">
-                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                                                As designers, we are often burdened by the responsibility?
+                                        <h2 className="accordion-header" id="headingFour">
+                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                                Da li radnik može sa drugim poslodavcem zaključiti ugovor o dopunskom radu bez saglasnosti poslodavca?
                                             </button>
                                         </h2>
-                                        <div id="collapseSix" className="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample2">
+                                        <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample2">
                                             <div className="accordion-body">
-                                                <p>There are many variations of passages of available but the majority have suffered alteration in that some form by injected randomised words which don’t look even as slightly believable.</p>
+                                                <p>Da, može do polovine punog radnog vremena, pod uslovom da se radno vrijeme radnika vremenski ne podudara sa vremenom koje će provoditi na dopunskom radu, i da se ne radi o istoj djelatnosti. Ukoliko se radi o istoj djelatnosti, potrebna je saglasnost poslodavca za zaključenje ugovora o dopunskom radu.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="accordion-item">
-                                        <h2 className="accordion-header" id="headingSeven">
-                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                                How To Organize Product-Related Assets?
+                                        <h2 className="accordion-header" id="headingFive">
+                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                                Obaveza registracije preduzetničke radnje u PDV sistem kad vlasnik ima DOO?
                                             </button>
                                         </h2>
-                                        <div id="collapseSeven" className="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample2">
+                                        <div id="collapseFive" className="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample2">
                                             <div className="accordion-body">
-                                                <p>Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="accordion-item">
-                                        <h2 className="accordion-header" id="headingEight">
-                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                                Choosing A New Serverless Database Technology?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseEight" className="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample2">
-                                            <div className="accordion-body">
-                                                <p>Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="accordion-item">
-                                        <h2 className="accordion-header" id="headingNine">
-                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                                How To Boost Media Performance On A Budget?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseNine" className="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample2">
-                                            <div className="accordion-body">
-                                                <p>Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="accordion-item">
-                                        <h2 className="accordion-header" id="headingTen">
-                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                                Improving Your Team’s Communication?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTen" className="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#accordionExample2">
-                                            <div className="accordion-body">
-                                                <p>Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="accordion-item">
-                                        <h2 className="accordion-header" id="headingEleven">
-                                            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
-                                                How To Make More Money Selling Shopify?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseEleven" className="accordion-collapse collapse" aria-labelledby="headingEleven" data-bs-parent="#accordionExample2">
-                                            <div className="accordion-body">
-                                                <p>Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones.</p>
+                                                <p>U situaciji kada fizičko lice ima u vlasništvu društvo ograničene odgovornosti (DOO), koje je u sistemu PDV-a, i pored toga, ima registrovanu preduzetničku radnju, koja nije u sistemu PDV-a, i ne prelazi prag oporezivanja iz Zakona o PDV-u - ne dolazi do sabiranja prometa obavljenog preko DOO i preduzetničke radnje, pa samim time nema obaveze za registraciju preduzetničke radnje u sistem PDV-a.</p>
+                                                <p>Ukoliko bi jedno lice imalo dvije ili više preduzetničkih radnji, ili bilo vlasnik dva ili više privrednih društava (pravnih lica), njihove promete bi trebalo sabirati i voditi računa o prelasku oporezivog praga prometa od 50.000 KM.</p>
                                             </div>
                                         </div>
                                     </div>
