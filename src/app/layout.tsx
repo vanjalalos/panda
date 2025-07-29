@@ -25,7 +25,7 @@ export default function RootLayout({
               name="viewport"
               content="width=device-width, initial-scale=1, shrink-to-fit=no"
             />
-            <link rel="icon" href="/assets/img/logo/favicon.png" />
+            <link rel="icon" href="/assets/img/logo/favicon.ico" />
             <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet"></link>
           </head>
 

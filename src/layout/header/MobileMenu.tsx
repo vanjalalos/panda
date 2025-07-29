@@ -71,41 +71,8 @@ const MobileMenu = () => {
               <li>
                 <Link href="/service">Usluge</Link>
               </li>
-              <li
-                className={project ? "has-droupdown active" : "has-droupdown"}
-              >
-                <a
-                  onClick={() => {
-                    openMobileMenu("project");
-                  }}
-                >
-                  Projekti
-                </a>
-                <ul className={project ? "sub-menu active" : "sub-menu"}>
-                  <li>
-                    <Link href="/project">Projekti</Link>
-                  </li>
-                  <li>
-                    <Link href="/project-details">Detalji projekta</Link>
-                  </li>
-                </ul>
-              </li>
-              <li className={blog ? "has-droupdown active" : "has-droupdown"}>
-                <a
-                  onClick={() => {
-                    openMobileMenu("blog");
-                  }}
-                >
-                  Blog
-                </a>
-                <ul className={blog ? "sub-menu active" : "sub-menu"}>
-                  <li>
-                    <Link href="/blog">Blog</Link>
-                  </li>
-                  <li>
-                    <Link href="/blog-details">Detalji članka</Link>
-                  </li>
-                </ul>
+              <li>
+                <Link href="/upit-za-cijenu">Upit za cijenu</Link>
               </li>
               <li>
                 <Link href="/faq">Česta pitanja</Link>
@@ -157,25 +124,17 @@ const MobileMenu = () => {
                 </li>
               </ul>
               <div className="sidebar__menu--social">
-                <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-                  <i className="fab fa-twitter"></i>
-                </a>
+               
                 <a
-                  href="https://www.facebook.com/"
+                  href="https://www.facebook.com/knjigovodstvenibiropanda"
                   target="_blank"
                   rel="noreferrer"
                 >
                   <i className="fab fa-facebook-f"></i>
                 </a>
+             
                 <a
-                  href="https://www.pinterest.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <i className="fab fa-pinterest-p"></i>
-                </a>
-                <a
-                  href="https://www.instagram.com/"
+                  href="https://www.instagram.com/explore/locations/104821495368467/knjigovodstveni-biro-panda/"
                   target="_blank"
                   rel="noreferrer"
                 >

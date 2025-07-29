@@ -12,35 +12,17 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/service-details/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/service-details/page.css",
-      "static/chunks/app/service-details/page.js"
-    ],
     "/contact/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/contact/page.css",
       "static/chunks/app/contact/page.js"
     ],
-    "/about/page": [
+    "/service-details/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/about/page.css",
-      "static/chunks/app/about/page.js"
-    ],
-    "/service/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/service/page.css",
-      "static/chunks/app/service/page.js"
-    ],
-    "/project/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/project/page.css",
-      "static/chunks/app/project/page.js"
+      "static/css/app/service-details/page.css",
+      "static/chunks/app/service-details/page.js"
     ],
     "/faq/page": [
       "static/chunks/webpack.js",
@@ -48,23 +30,23 @@
       "static/css/app/faq/page.css",
       "static/chunks/app/faq/page.js"
     ],
-    "/privacy/page": [
+    "/service/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/privacy/page.css",
-      "static/chunks/app/privacy/page.js"
+      "static/css/app/service/page.css",
+      "static/chunks/app/service/page.js"
     ],
-    "/terms/page": [
+    "/about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/terms/page.css",
-      "static/chunks/app/terms/page.js"
+      "static/css/app/about/page.css",
+      "static/chunks/app/about/page.js"
     ],
-    "/service-details/[slug]/page": [
+    "/upit-za-cijenu/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/service-details/[slug]/page.css",
-      "static/chunks/app/service-details/[slug]/page.js"
+      "static/css/app/upit-za-cijenu/page.css",
+      "static/chunks/app/upit-za-cijenu/page.js"
     ]
   }
 }

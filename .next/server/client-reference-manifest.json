@@ -264,6 +264,14 @@
         "async": false
       }
     },
+    "(app-client)/./src/components/contact/ContactSection.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/contact/ContactSection.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./public/assets/img/service/service-img-5.jpg": {
       "*": {
         "id": "(sc_client)/./public/assets/img/service/service-img-5.jpg",
@@ -320,113 +328,9 @@
         "async": false
       }
     },
-    "(app-client)/./public/assets/img/project/project-img-1.jpg": {
+    "(app-client)/./src/components/priceInquiry/PriceInquirySection.tsx": {
       "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-1.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-10.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-10.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-11.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-11.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-12.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-12.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-13.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-13.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-2.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-2.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-3.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-3.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-4.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-4.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-5.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-5.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-6.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-6.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-7.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-7.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-8.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-8.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/img/project/project-img-9.jpg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/img/project/project-img-9.jpg",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "id": "(sc_client)/./src/components/priceInquiry/PriceInquirySection.tsx",
         "name": "*",
         "chunks": [],
         "async": false
@@ -623,7 +527,7 @@
       "id": "(app-client)/./public/assets/img/icon/footer-icon-1.png",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -631,7 +535,7 @@
       "id": "(app-client)/./public/assets/img/icon/footer-icon-2.png",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -639,7 +543,7 @@
       "id": "(app-client)/./public/assets/img/icon/sidebar-icon-1.png",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -647,7 +551,7 @@
       "id": "(app-client)/./public/assets/img/logo/logo-white.png",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -655,7 +559,7 @@
       "id": "(app-client)/./public/assets/img/logo/logo.png",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -719,7 +623,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -727,7 +631,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -735,7 +639,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -743,7 +647,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -751,7 +655,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -759,7 +663,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -783,7 +687,7 @@
       "id": "(app-client)/./src/contextApi/AppProvider.tsx",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -791,7 +695,7 @@
       "id": "(app-client)/./src/hooks/useLoading.ts",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -799,7 +703,7 @@
       "id": "(app-client)/./src/layout/DefaultWrapper.tsx",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -807,7 +711,7 @@
       "id": "(app-client)/./src/layout/header/HeaderTwo.tsx",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -815,7 +719,7 @@
       "id": "(app-client)/./src/layout/header/MobileMenu.tsx",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     },
@@ -823,7 +727,15 @@
       "id": "(app-client)/./public/assets/img/bg/breadcrumb-bg.jpg",
       "name": "*",
       "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/components/contact/ContactSection.tsx": {
+      "id": "(app-client)/./src/components/contact/ContactSection.tsx",
+      "name": "*",
+      "chunks": [
+        "app/contact/page:static/chunks/app/contact/page.js"
       ],
       "async": false
     },
@@ -883,123 +795,11 @@
       ],
       "async": false
     },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-1.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-1.jpg",
+    "/Users/vanjalalos/git/panda_agency/panda/src/components/priceInquiry/PriceInquirySection.tsx": {
+      "id": "(app-client)/./src/components/priceInquiry/PriceInquirySection.tsx",
       "name": "*",
       "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-10.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-10.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-11.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-11.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-12.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-12.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-13.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-13.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-2.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-2.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-3.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-3.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-4.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-4.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-5.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-5.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-6.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-6.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-7.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-7.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-8.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-8.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/public/assets/img/project/project-img-9.jpg": {
-      "id": "(app-client)/./public/assets/img/project/project-img-9.jpg",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "*",
-      "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "*",
-      "chunks": [
-        "app/service-details/[slug]/page:static/chunks/app/service-details/[slug]/page.js"
+        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
       ],
       "async": false
     }
@@ -1027,6 +827,14 @@
         "static/css/app/layout.css"
       ]
     },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/contact/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/contact/page.css"
+      ]
+    },
     "/Users/vanjalalos/git/panda_agency/panda/src/app/service-details/page": {
       "modules": [
         "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
@@ -1035,12 +843,20 @@
         "static/css/app/service-details/page.css"
       ]
     },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/contact/page": {
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/faq/page": {
       "modules": [
         "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
       ],
       "files": [
-        "static/css/app/contact/page.css"
+        "static/css/app/faq/page.css"
+      ]
+    },
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/service/page": {
+      "modules": [
+        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
+      ],
+      "files": [
+        "static/css/app/service/page.css"
       ]
     },
     "/Users/vanjalalos/git/panda_agency/panda/src/app/about/page": {
@@ -1052,52 +868,12 @@
         "static/css/app/about/page.css"
       ]
     },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/service/page": {
+    "/Users/vanjalalos/git/panda_agency/panda/src/app/upit-za-cijenu/page": {
       "modules": [
         "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
       ],
       "files": [
-        "static/css/app/service/page.css"
-      ]
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/project/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
-      ],
-      "files": [
-        "static/css/app/project/page.css"
-      ]
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/faq/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
-      ],
-      "files": [
-        "static/css/app/faq/page.css"
-      ]
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/privacy/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
-      ],
-      "files": [
-        "static/css/app/privacy/page.css"
-      ]
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/terms/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
-      ],
-      "files": [
-        "static/css/app/terms/page.css"
-      ]
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/service-details/[slug]/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
-      ],
-      "files": [
-        "static/css/app/service-details/[slug]/page.css"
+        "static/css/app/upit-za-cijenu/page.css"
       ]
     }
   }

@@ -2,7 +2,7 @@ import React from "react";
 import FooterBottom from "./FooterBottom";
 import Link from "next/link";
 import Image from "next/image";
-import logo from "../../../public/assets/img/logo/logo-white.png";
+import logo from "../../../public/assets/img/logo/logo.png";
 import icon1 from "../../../public/assets/img/icon/footer-icon-1.png";
 import icon2 from "../../../public/assets/img/icon/footer-icon-2.png";
 
@@ -45,16 +45,12 @@ const FooterTwo = () => {
                   words.
                 </p>
                 <div className="footer-social">
-                  <Link href="https://twitter.com/" target="_blank">
-                    <i className="fab fa-twitter"></i>
-                  </Link>
-                  <Link href="https://www.facebook.com/" target="_blank">
+                 
+                  <Link href="https://www.facebook.com/knjigovodstvenibiropanda/photos/?_rdr" target="_blank">
                     <i className="fab fa-facebook-f"></i>
                   </Link>
-                  <Link href="https://www.pinterest.com/" target="_blank">
-                    <i className="fab fa-pinterest-p"></i>
-                  </Link>
-                  <Link href="https://www.instagram.com/" target="_blank">
+                 
+                  <Link href="https://www.instagram.com/explore/locations/104821495368467/knjigovodstveni-biro-panda/" target="_blank">
                     <i className="fab fa-instagram"></i>
                   </Link>
                 </div>

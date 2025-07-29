@@ -66,29 +66,17 @@ const HeaderTwo = () => {
                 <div className="col-xl-4 d-none d-xl-block">
                   <div className="header-right text-end">
                     <div className="header-social header-social-2">
+                     
                       <Link
-                        href="https://twitter.com/"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        <i className="fab fa-twitter"></i>
-                      </Link>
-                      <Link
-                        href="https://www.facebook.com/"
+                        href="https://www.facebook.com/knjigovodstvenibiropanda/photos/?_rdr"
                         target="_blank"
                         rel="noreferrer"
                       >
                         <i className="fab fa-facebook-f"></i>
                       </Link>
+                    
                       <Link
-                        href="https://www.pinterest.com/"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        <i className="fab fa-pinterest-p"></i>
-                      </Link>
-                      <Link
-                        href="https://www.instagram.com/"
+                        href="https://www.instagram.com/explore/locations/104821495368467/knjigovodstveni-biro-panda/"
                         target="_blank"
                         rel="noreferrer"
                       >

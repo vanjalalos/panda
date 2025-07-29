@@ -23,7 +23,7 @@ const teams:teamType[] = [
             {
                 id: 2,
                 icon: "fab fa-facebook-f",
-                url: "https://www.facebook.com/"
+                url: "https://www.facebook.com/knjigovodstvenibiropanda"
             },
             {
                 id: 3,

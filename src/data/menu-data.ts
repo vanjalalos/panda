@@ -57,6 +57,12 @@ const menu_data:menusType[] = [
   //   ],
   // },
   {
+    id: 4,
+    hasDropdown: false,
+    title: "Upit za cijenu",
+    link: "/upit-za-cijenu" 
+  },
+  {
     id: 6,
     hasDropdown: false,
     title: "Česta pitanja",

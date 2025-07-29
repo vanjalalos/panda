@@ -18,7 +18,15 @@ const AboutSection = () => {
                                 <Image src={about2} style={{ width: "210px", height: "180px" }} alt="about-img" />
                                 <div className="kabout-img-small-icon play_btn">
                                     <span>
-                                        <Image src={aboutIcon} style={{ width: "auto", height: "auto" }} alt="about-icon" />
+                                        <Image 
+                                            src={aboutIcon} 
+                                            style={{ 
+                                                width: "auto", 
+                                                height: "auto",
+                                                filter: "brightness(0) saturate(100%) invert(61%) sepia(59%) saturate(1000%) hue-rotate(103deg) brightness(91%) contrast(86%)"
+                                            }} 
+                                            alt="about-icon" 
+                                        />
                                     </span>
                                 </div>
                             </div>

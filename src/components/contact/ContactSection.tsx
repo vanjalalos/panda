@@ -1,7 +1,58 @@
+"use client"
 import Link from "next/link";
-import React from "react";
+import React, { useState } from "react";
 
 const ContactSection = () => {
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    phone: '',
+    subject: '',
+    message: ''
+  });
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitStatus, setSubmitStatus] = useState<{ type: 'success' | 'error' | null, message: string }>({ type: null, message: '' });
+
+  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+    const { name, value } = e.target;
+    setFormData(prev => ({ ...prev, [name]: value }));
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setIsSubmitting(true);
+    setSubmitStatus({ type: null, message: '' });
+
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      });
+
+      const result = await response.json();
+
+      if (result.success) {
+        setSubmitStatus({ type: 'success', message: result.message });
+        setFormData({
+          name: '',
+          email: '',
+          phone: '',
+          subject: '',
+          message: ''
+        });
+      } else {
+        setSubmitStatus({ type: 'error', message: result.message });
+      }
+    } catch (error) {
+      setSubmitStatus({ type: 'error', message: 'Greška pri slanju poruke. Molimo pokušajte ponovo.' });
+    } finally {
+      setIsSubmitting(false);
+    }
+  };
+
   return (
     <section className="contact-area pt-120 pb-80 fix">
       <div className="container">
@@ -55,26 +106,64 @@ const ContactSection = () => {
           </div>
           <div className="col-xxl-7 col-xl-6 col-lg-6">
             <div className="contact-form">
-              <form id="contact-form">
+              <form id="contact-form" onSubmit={handleSubmit}>
                 <div className="row">
                   <div className="col-xxl-6 col-xl-6 col-lg-6 mb-20">
-                    <input type="text" placeholder="Vaše ime" />
+                    <input 
+                      type="text" 
+                      name="name"
+                      value={formData.name}
+                      onChange={handleInputChange}
+                      placeholder="Vaše ime" 
+                    />
                   </div>
                   <div className="col-xxl-6 col-xl-6 col-lg-6 mb-20">
-                    <input type="email" placeholder="Email adresa" />
+                    <input 
+                      type="email" 
+                      name="email"
+                      value={formData.email}
+                      onChange={handleInputChange}
+                      placeholder="Email adresa" 
+                    />
                   </div>
                   <div className="col-xxl-6 col-xl-6 col-lg-6 mb-20">
-                    <input type="text" placeholder="Telefon" />
+                    <input 
+                      type="text" 
+                      name="phone"
+                      value={formData.phone}
+                      onChange={handleInputChange}
+                      placeholder="Telefon" 
+                    />
                   </div>
                   <div className="col-xxl-6 col-xl-6 col-lg-6 mb-20">
-                    <input type="text" placeholder="Predmet" />
+                    <input 
+                      type="text" 
+                      name="subject"
+                      value={formData.subject}
+                      onChange={handleInputChange}
+                      placeholder="Predmet" 
+                    />
                   </div>
                   <div className="col-xxl-12 col-xl-12 col-lg-12 mb-20">
-                    <textarea placeholder="Napišite poruku"></textarea>
+                    <textarea 
+                      name="message"
+                      value={formData.message}
+                      onChange={handleInputChange}
+                      placeholder="Napišite poruku"
+                    ></textarea>
                   </div>
                   <div className="col-xxl-12 col-xl-12 mb-20">
-                    <button type="submit" className="theme-btn border-btn">
-                      Pošalji poruku
+                    {submitStatus.type && (
+                      <div className={`alert ${submitStatus.type === 'success' ? 'alert-success' : 'alert-danger'} mb-20`}>
+                        {submitStatus.message}
+                      </div>
+                    )}
+                    <button 
+                      type="submit" 
+                      className="theme-btn border-btn"
+                      disabled={isSubmitting}
+                    >
+                      {isSubmitting ? 'Slanje...' : 'Pošalji poruku'}
                     </button>
                   </div>
                 </div>

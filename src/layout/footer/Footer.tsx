@@ -35,12 +35,14 @@ const Footer = () => {
                     <Image
                       src={logo}
                       style={{ 
-                        width: "100%", 
-                        height: "auto",
-                        maxWidth: "150px",
-                        backgroundColor: "rgba(255, 255, 255, 0.9)",
-                        borderRadius: "5px",
-                        padding: "10px"
+                        width: "120px", 
+                        height: "100px",
+                        maxWidth: "120px",
+                        //borderRadius: "40%",
+                        objectFit: "contain",
+                        objectPosition: "center",
+                        backgroundColor: "transparent",
+                        filter: "brightness(0) saturate(100%) invert(100%)"
                       }}
                       alt="footer logo"
                     />
@@ -50,16 +52,12 @@ const Footer = () => {
                 Vaš partner za sigurno i precizno knjigovodstvo. Mi pratimo zakone i rokove, vi pratite svoje ciljeve.
                 </p>
                 <div className="footer-social">
-                  <Link href="https://twitter.com/" target="_blank">
-                    <i className="fab fa-twitter"></i>
-                  </Link>
-                  <Link href="https://www.facebook.com/" target="_blank">
+                
+                  <Link href="https://www.facebook.com/knjigovodstvenibiropanda/photos/?_rdr" target="_blank">
                     <i className="fab fa-facebook-f"></i>
                   </Link>
-                  <Link href="https://www.pinterest.com/" target="_blank">
-                    <i className="fab fa-pinterest-p"></i>
-                  </Link>
-                  <Link href="https://www.instagram.com/" target="_blank">
+                 
+                  <Link href="https://www.instagram.com/explore/locations/104821495368467/knjigovodstveni-biro-panda/" target="_blank">
                     <i className="fab fa-instagram"></i>
                   </Link>
                 </div>
