@@ -713,6 +713,31 @@
         padding-right: 40px;
     }
 }
+
+/* Fix for FAQ accordion text overlapping with icon */
+.faq-area .accordion-button {
+    padding-right: 60px !important;
+    word-wrap: break-word;
+    text-align: left;
+    line-height: 1.4;
+    min-height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.faq-area .accordion-button::after {
+    right: 25px !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+    position: absolute;
+}
+
+.faq-area .accordion-button:not(.collapsed)::after {
+    right: 25px !important;
+    top: 50% !important;
+    transform: translateY(-50%) rotate(180deg);
+    position: absolute;
+}
 .faq-form-title {
     font-size: 36px;
     font-weight: 700;
