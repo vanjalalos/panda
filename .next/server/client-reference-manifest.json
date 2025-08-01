@@ -303,22 +303,6 @@
         "chunks": [],
         "async": false
       }
-    },
-    "(app-client)/./src/components/priceInquiry/PriceInquirySection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/priceInquiry/PriceInquirySection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/contact/ContactSection.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/contact/ContactSection.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -511,7 +495,7 @@
       "id": "(app-client)/./public/assets/img/icon/footer-icon-1.png",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -519,7 +503,7 @@
       "id": "(app-client)/./public/assets/img/icon/footer-icon-2.png",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -527,7 +511,7 @@
       "id": "(app-client)/./public/assets/img/icon/sidebar-icon-1.png",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -535,7 +519,7 @@
       "id": "(app-client)/./public/assets/img/logo/logo-white.png",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -543,7 +527,7 @@
       "id": "(app-client)/./public/assets/img/logo/logo.png",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -607,7 +591,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -615,7 +599,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -623,7 +607,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -631,7 +615,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -639,7 +623,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -647,7 +631,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -671,7 +655,7 @@
       "id": "(app-client)/./src/contextApi/AppProvider.tsx",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -679,7 +663,7 @@
       "id": "(app-client)/./src/hooks/useLoading.ts",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -687,7 +671,7 @@
       "id": "(app-client)/./src/layout/DefaultWrapper.tsx",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -695,7 +679,7 @@
       "id": "(app-client)/./src/layout/header/HeaderTwo.tsx",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -703,7 +687,7 @@
       "id": "(app-client)/./src/layout/header/MobileMenu.tsx",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -719,7 +703,7 @@
       "id": "(app-client)/./public/assets/img/bg/breadcrumb-bg.jpg",
       "name": "*",
       "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
+        "app/service/page:static/chunks/app/service/page.js"
       ],
       "async": false
     },
@@ -752,22 +736,6 @@
       "name": "*",
       "chunks": [
         "app/about/page:static/chunks/app/about/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/priceInquiry/PriceInquirySection.tsx": {
-      "id": "(app-client)/./src/components/priceInquiry/PriceInquirySection.tsx",
-      "name": "*",
-      "chunks": [
-        "app/upit-za-cijenu/page:static/chunks/app/upit-za-cijenu/page.js"
-      ],
-      "async": false
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/components/contact/ContactSection.tsx": {
-      "id": "(app-client)/./src/components/contact/ContactSection.tsx",
-      "name": "*",
-      "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
       ],
       "async": false
     }
@@ -804,36 +772,12 @@
         "static/css/app/about/page.css"
       ]
     },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/upit-za-cijenu/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
-      ],
-      "files": [
-        "static/css/app/upit-za-cijenu/page.css"
-      ]
-    },
     "/Users/vanjalalos/git/panda_agency/panda/src/app/service/page": {
       "modules": [
         "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
       ],
       "files": [
         "static/css/app/service/page.css"
-      ]
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/faq/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
-      ],
-      "files": [
-        "static/css/app/faq/page.css"
-      ]
-    },
-    "/Users/vanjalalos/git/panda_agency/panda/src/app/contact/page": {
-      "modules": [
-        "/Users/vanjalalos/git/panda_agency/panda/node_modules/aos/dist/aos.css"
-      ],
-      "files": [
-        "static/css/app/contact/page.css"
       ]
     }
   }

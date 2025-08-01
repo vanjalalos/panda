@@ -1,5 +1,6 @@
 {
-  "/upit-za-cijenu/page": "app/upit-za-cijenu/page.js",
   "/page": "app/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/about/page": "app/about/page.js",
+  "/service/page": "app/service/page.js"
 }

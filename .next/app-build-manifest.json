@@ -18,29 +18,11 @@
       "static/css/app/about/page.css",
       "static/chunks/app/about/page.js"
     ],
-    "/upit-za-cijenu/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/upit-za-cijenu/page.css",
-      "static/chunks/app/upit-za-cijenu/page.js"
-    ],
     "/service/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/service/page.css",
       "static/chunks/app/service/page.js"
-    ],
-    "/faq/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/faq/page.css",
-      "static/chunks/app/faq/page.js"
-    ],
-    "/contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/contact/page.css",
-      "static/chunks/app/contact/page.js"
     ]
   }
 }

@@ -83,7 +83,7 @@ const HeaderTwo = () => {
                         <i className="fab fa-instagram"></i>
                       </Link>
                     </div>
-                    <div className="header-search header-search-2">
+                    {/* <div className="header-search header-search-2">
                       <button
                         type="button"
                         className="search-btn nav-search search-trigger"
@@ -91,7 +91,7 @@ const HeaderTwo = () => {
                       >
                         <i className="fas fa-search"></i>
                       </button>
-                    </div>
+                    </div> */}
                     <div className="header-btn">
                       <Link
                         href="/contact"
